@@ -1,0 +1,6 @@
+POST https://j5x2u8tnwd.execute-api.us-east-1.amazonaws.com/dev/v1/user
+
+{
+    "username" :"Anand",
+    "password" :"password"
+}
